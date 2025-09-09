@@ -30,3 +30,30 @@ And check out the following files:
 Visit https://playwright.dev/docs/intro for more information. ✨
 
 Happy hacking! 🎭
+
+
+---
+
+https://playwright.dev/docs/codegen-intro
+
+npx playwright test --project webkit --project firefox --headed --trace on
+
+npx playwright test --headed
+
+
+
+npx playwright show-report
+
+npx playwright test --project webkit --project firefox
+
+npx playwright test --project webkit --project firefox --ui
+
+npx playwright test --project webkit --project firefox --headed
+
+--trace on 
+
+npx playwright test --project webkit --project firefox --headed --trace on
+
+---
+
+
